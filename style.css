@@ -1,4 +1,4 @@
-/* CSS files add styling rules to your content */
+/* ane qui apparait*/
 
 
 body {
@@ -14,4 +14,14 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+.ane {
+  opacity: 0;
+}
+
+.ane:hover {
+  opacity:1;
+}
+
+
 
